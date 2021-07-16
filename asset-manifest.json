@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/mipagina.react/static/js/main.e87cabd5.chunk.js",
+    "main.js.map": "/mipagina.react/static/js/main.e87cabd5.chunk.js.map",
+    "runtime-main.js": "/mipagina.react/static/js/runtime-main.8a3bc46d.js",
+    "runtime-main.js.map": "/mipagina.react/static/js/runtime-main.8a3bc46d.js.map",
+    "static/js/2.35a3862e.chunk.js": "/mipagina.react/static/js/2.35a3862e.chunk.js",
+    "static/js/2.35a3862e.chunk.js.map": "/mipagina.react/static/js/2.35a3862e.chunk.js.map",
+    "index.html": "/mipagina.react/index.html",
+    "static/js/2.35a3862e.chunk.js.LICENSE.txt": "/mipagina.react/static/js/2.35a3862e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a3bc46d.js",
+    "static/js/2.35a3862e.chunk.js",
+    "static/js/main.e87cabd5.chunk.js"
+  ]
+}
